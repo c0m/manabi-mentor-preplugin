@@ -3,6 +3,7 @@
 
 Manabi Mentor is a collection of prompts to be pasted in to a LLM. These are designed to be used with Cure Dolly's Organic Japanese course found [here](https://www.youtube.com/watch?v=pSvH9vH60Ig&list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj). 
 
+[Here](https://chat.openai.com/share/7d8f8465-4e88-4ff6-9714-97335e0bfc8e) is a sample chat of Manabi Mentor. Note how you can just ask it things and ask it to go along with you at your own pace. 
 
 ## Instructions
  - Open up the lesson you want to follow
